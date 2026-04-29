@@ -1,0 +1,17 @@
+# Core dependencies
+click>=8.0
+rich>=13.0
+dnspython>=2.4
+python-whois>=0.8
+requests>=2.31
+python-dotenv>=1.0
+aiohttp>=3.9
+beautifulsoup4>=4.12
+shodan>=1.28
+
+# AI Providers (install the ones you need)
+groq>=0.4
+openai>=1.0
+anthropic>=0.25
+google-generativeai>=0.5
+mistralai>=1.0
